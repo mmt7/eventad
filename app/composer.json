@@ -1,0 +1,16 @@
+{
+    "name": "morisonberg/eventad",
+    "authors": [
+        {
+            "name": "morisonberg",
+            "email": "m.morimoto1985@live.jp"
+        }
+    ],
+    "config":{
+        "vendor-dir":"Vendor"
+    },
+    "require": {
+        "cakephp/cakephp": "2.5.*",
+        "josegonzalez/cakephp-environments": "1.0.0"
+    }
+}
